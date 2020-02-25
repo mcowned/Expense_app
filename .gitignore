@@ -5,7 +5,13 @@ __pycache__/
 
 # C extensions
 *.so
-
+.vscode
+.idea
+CSV
+stringp
+stringu
+keyu
+keyp
 # Distribution / packaging
 .Python
 build/
